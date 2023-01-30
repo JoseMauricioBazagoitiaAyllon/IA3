@@ -6,6 +6,6 @@ Un sistema llamado Conocedor Boliviano será desarrollado como un modelo de proc
 ## Requerimientos Django
 
 
-keras 
-tensorflow
-Keras_transformer
+* keras 
+* tensorflow
+* keras_transformer
